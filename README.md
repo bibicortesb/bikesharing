@@ -1,4 +1,22 @@
 # bikesharing
+## Project Overview
+
+V. 
+
+### Purpose
+
+Through this project, the differences in ride-sharing among the different city types is presented:
+
+
+## Resources
+
+- Data Source: city_data.csv 
+- Software: Python 3.9.12, 
+
+
+## Results
+
+In the following table, the average fare per ride by city type is shown: 
 
 ## Dashboard
 
@@ -25,3 +43,7 @@
 <img width="961" alt="Screen Shot 2023-01-18 at 22 19 20" src="https://user-images.githubusercontent.com/114015620/213354252-da616514-71b3-412a-be03-17103e520023.png">
 
 
+
+## Recommendations
+
+## Summary
