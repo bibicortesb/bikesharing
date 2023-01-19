@@ -5,18 +5,18 @@ V.
 
 ### Purpose
 
-Through this project, the differences in ride-sharing among the different city types is presented:
+Through this project, citibike information is analized to draw insights of the behaviour of the consumers. This information intends to support the endeavour of a bike-sharing venture in Des Moins.
 
 
 ## Resources
 
-- Data Source: city_data.csv 
-- Software: Python 3.9.12, 
+- Data Source: citibikedata.csv 
+- Software: Tableau & Python 3.9.12, 
 
 
 ## Results
 
-In the following table, the average fare per ride by city type is shown: 
+The results were published in Tableau public in the following link: _________________
 
 ## Dashboard
 
