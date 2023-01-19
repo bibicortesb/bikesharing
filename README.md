@@ -5,8 +5,15 @@ V.
 
 ### Purpose
 
-Through this project, citibike information is analized to draw insights of the behaviour of the consumers. This information intends to support the endeavour of a bike-sharing venture in Des Moins.
+Through this project, citibike information is analized to draw insights of the behaviour of the consumers. This information intends to support the endeavour of a bike-sharing venture in Des Moins.Month of August was selected to conduct this analisis because of the warm weather for a starting point. 
 
+Three main questions were addressed:
+  - The time bikes are used for all riders and genders. 
+  - The bike trips for all riders and genders for each hour and day of the week.
+  - The bike trips 
+Show the length of time that bikes are checked out for all riders and genders
+Show the number of bike trips for all riders and genders for each hour of each day of the week
+Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Resources
 
