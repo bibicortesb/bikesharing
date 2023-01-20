@@ -34,6 +34,8 @@ The results were published in Tableau public in the following link: ____________
 ###Second
 
 <img width="969" alt="Screen Shot 2023-01-18 at 22 17 58" src="https://user-images.githubusercontent.com/114015620/213354116-09c7c47f-3f82-4a47-b476-b2d733129931.png">
+In the graph the checkouts are displayed by gender. Males use significantly more the bikesharing service than females. Both have their peek tripduration around 10 minutes. 
+
 
 ###Third
 
@@ -48,6 +50,9 @@ The results were published in Tableau public in the following link: ____________
 ### Fifth
 
 <img width="961" alt="Screen Shot 2023-01-18 at 22 19 20" src="https://user-images.githubusercontent.com/114015620/213354252-da616514-71b3-412a-be03-17103e520023.png">
+In the heat map, the contrast between user types is well defined. Suscriber use significally more the bike sharing service. Gender diemnsion enables to have valuable information on gender, weekday and usertype behaviour. Some insights that are preseted in the heat map are the following: 
+- Suscribers represent have significantly more activity than regular costumers.
+- The busiets days are Thursday and Friday.
 
 
 
