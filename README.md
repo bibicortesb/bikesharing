@@ -20,6 +20,9 @@ Show the number of bike trips for each type of user and gender for each day of t
 - Data Source: citibikedata.csv 
 - Software: Tableau & Python 3.9.12, 
 
+## Dashboard
+[link to dashboard](https://public.tableau.com/shared/9K5YK72KD?:display_count=n&:origin=viz_share_link)
+
 
 ## Results
 
