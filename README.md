@@ -1,6 +1,7 @@
 # bikesharing
 ## Project Overview
-A new venture 
+Analize CitiBike information to uncover customer behaviour, usertype, service consumption by weekdays and weekends. 
+To build a robust back up for CityBike Program in Des Moins' pitch. 
 
 ### Purpose
 
@@ -80,6 +81,7 @@ The heat map is now displayed with gender differentiation. With this information
 The heat map shows that the 
 - Th bussiest hours of the day are in the morning fro 6.00am to 9.00pm
 - The bussiest hour of the day are in the afternoon are from 4.00pm tp 8.00 pm.
+- The bussiest day is Thursday.
 - Weekdays also have more demand than weekends. 
 
 ### Bkk
@@ -91,6 +93,27 @@ In the heat map, the contrast between user types is well defined. Suscriber use 
 - Customers use the service on weekends more frequently than they do on weekdays.
 
 
-## Recommendations
+## Summary & Further Analysis
+
+Some insights are summarized in the following bullet points: 
+
+- There were 2.3 M users in August 2019 for CitiBike NYC.
+- There are two types of users Costumers and Suscriber. 
+- Males represent 65% of users. 
+- Females 25%, the rest 10% unknown. 
+- Users' behaviour shifts from weekdays to weekends. 
+- Weekday, have well difined hours in the morning and afternoon. 
+- Weekends have a wider spread of rides along the day.
+- The bussiest day of the week is Thursday. 
+- Customers use the service more on weekends than on weekdays.
+
+Further analysis: 
+- Customer profiling can be a great tool for early stages in Des Moins Program for marketing strategy. 
+- Female beahaviour can be followed closely to level up the numbers.
+
+## Conclusion
+
+No doubt, Citibike NYC data is great for benchmarking and supporting new endeavours. Thanks to tableau information can be displayed in a clean, organized and interactive way to make insights on customer behaviour, market size and potential campaings for launching. Hopefully this analyisis can be an aid for Des Moins' future investors. 
+
 
 
