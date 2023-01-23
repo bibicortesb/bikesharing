@@ -20,24 +20,26 @@ Show the number of bike trips for each type of user and gender for each day of t
 - Data Source: citibikedata.csv 
 - Software: Tableau & Python 3.9.12, 
 
-## Dashboard
-[link to dashboard](https://public.tableau.com/views/bikesharing_16744307292060/bikesharing?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
-
-
 ## Results
 
-The results were published in Tableau public in the following link: _________________
+The results were published in Tableau public in the following link: [link to dashboard](https://public.tableau.com/views/bikesharing_16744307292060/bikesharing?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## Dashboard
+In the first slide, the purpose of the project is described. Followed by the visualizations that will deepen the analysis.
 
-###First
+### Number of rides
+<img width="179" alt="Screen Shot 2023-01-23 at 8 23 54" src="https://user-images.githubusercontent.com/114015620/214063414-0c90ff0a-0359-4deb-87f9-cc6cfd2f163e.png">
+It is important to define the universe we will focuse the analysis. In August 2019 in NYC, the total numbers of rides is presented in the dashboard as a text box, 2,344,224. 
+
+### Checkout Times for Users
 
 <img width="790" alt="Screen Shot 2023-01-18 at 22 17 24" src="https://user-images.githubusercontent.com/114015620/213354059-3ba751f1-bd15-4ab2-a9d1-3c2a213cdee9.png">
 
-###Second
+In the line graph, th number of bikes is plotted against the tripduration in minutes. By observing the graph, we can begin to draw conclusions. Trips that are 5-6 minutes long are the most recurrent trips. The peek is observed in the plot around 146k rides. Another interesting insights is that few trips last longer than 1 hour.  
+
+### Checkout Times by Gender
 
 <img width="969" alt="Screen Shot 2023-01-18 at 22 17 58" src="https://user-images.githubusercontent.com/114015620/213354116-09c7c47f-3f82-4a47-b476-b2d733129931.png">
-In the graph the checkouts are displayed by gender. Males use significantly more the bikesharing service than females. Both have their peek tripduration around 10 minutes. 
+In the graph the checkouts are displayed by gender. Here, we have more resolution on data which enables us to drill into the information to find that males use significantly more the bikesharing service than females. Both have their peek tripduration around 5 minutes. The peek of males is around 100k rides. On their side, females peek at 34k, this mean a difference in utilization of 66% more for males. This can also lead to further questions. Is there anything that can be done to even these numbers? Shall the initial campaing give more focus to males since their adoption is higher? Just a few observations that could support customer profiling.
 
 
 ###Third
