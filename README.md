@@ -21,7 +21,7 @@ Show the number of bike trips for each type of user and gender for each day of t
 - Software: Tableau & Python 3.9.12, 
 
 ## Dashboard
-[link to dashboard](https://public.tableau.com/shared/9K5YK72KD?:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/views/bikesharing_16744307292060/bikesharing?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ## Results
