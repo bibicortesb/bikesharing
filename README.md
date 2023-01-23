@@ -52,39 +52,45 @@ In the pie chart the porpotion of males can be observed, there were 1.5 M males,
 
 Now that we know the distribution of customers by gender. Let's explore their behaviour by age.
 
+### User type
+
+<img width="180" alt="Screen Shot 2023-01-23 at 9 46 10" src="https://user-images.githubusercontent.com/114015620/214083457-01b84439-e6a3-416a-96ae-76658265d512.png">
+
+In the table, User Type is shown. By having the suscriber and customer count we ensure that everyone is can check easily how much each represent out of the total. In case they need to make inferences with the rest of the visualizations that will use user type as a dimension for analysis.
+
+
 ### User type by gender
 
 <img width="886" alt="Screen Shot 2023-01-23 at 9 00 45" src="https://user-images.githubusercontent.com/114015620/214072378-9eb7569e-532d-444e-ab3f-f14c8785a488.png">
 
+In the bar plot we can see that there are two types of users: Customer and Suscriber. Also, the plot allows us to observe the breakdown by gender. For both user types, males represent the biggest proportion. In Customers, unkown gender is more frequent than in Suscribers. In this visualization, Birth Years is used as a variable. The range can be used to analyse certain groups, this can also be useful for costumer perfiling.  
+
+### Trips by weekday per hour
+
+<img width="517" alt="Screen Shot 2023-01-23 at 9 37 03" src="https://user-images.githubusercontent.com/114015620/214081320-999ebfc2-1032-4b41-ba05-67eea040a448.png">
 
 
-###Third
+The heat map shows that the behaviour changes from weekdays to weekends. On Sundays and Saturdays, the range of service utilization is more frequent from 10 am to 6 pm. On weekdays it is different, most trips are concentrated in defined periods on the moring and aternoon. One interesting day is friday,it has a sort of merge between the behaviour of the weekends and weeekdays. Furthermore, this information could give a good clue for mantainance routines. 
 
-<img width="1470" alt="Screen Shot 2023-01-18 at 22 18 42" src="https://user-images.githubusercontent.com/114015620/213354200-337f0dec-ba59-477a-b833-38db62fb762a.png">
+### Trips by gender 
 
-The heat map shows that the behaviour changes from weekdays to weekends. Furthermore, the bussiest hours change.
-On Sundays and Saturdays, the range of service utilization is more frequent from 10 am to 6 pm. On weekdays it is different, most trips are concentrated in defined periods on the moring and aternoon. On interesting day is friday, it seems to be the busiest day of the week, with a sort of merge between the behaviour of the weekends and weeekdays. 
+<img width="1078" alt="Screen Shot 2023-01-23 at 9 36 15" src="https://user-images.githubusercontent.com/114015620/214081149-df4ab106-fdaa-4d2e-9818-4f0312c4e5a9.png">
+The heat map is now displayed with gender differentiation. With this information, we can see the patterns of behaviour of by gender. No mattter the gender, the behaviour mantains with defined hours on weekdays in the morning and afternoon and a broader distribution on weekends. The heat map is useful because visually we can have a lot of information on the concentration of rides by hour and weekday.
 
-
-
-### Forth
-<img width="964" alt="Screen Shot 2023-01-18 at 22 19 02" src="https://user-images.githubusercontent.com/114015620/213354233-de7bf8c5-613d-4d3b-afd0-9fb509752e3a.png">
 The heat map shows that the 
 - Th bussiest hours of the day are in the morning fro 6.00am to 9.00pm
 - The bussiest hour of the day are in the afternoon are from 4.00pm tp 8.00 pm.
 - Weekdays also have more demand than weekends. 
 
+### Bkk
+<img width="552" alt="Screen Shot 2023-01-23 at 9 49 27" src="https://user-images.githubusercontent.com/114015620/214084396-2fd26f40-f176-4b0d-b707-e63199c1a944.png">
 
-### Fifth
-
-<img width="961" alt="Screen Shot 2023-01-18 at 22 19 20" src="https://user-images.githubusercontent.com/114015620/213354252-da616514-71b3-412a-be03-17103e520023.png">
 In the heat map, the contrast between user types is well defined. Suscriber use significally more the bike sharing service. Gender diemnsion enables to have valuable information on gender, weekday and usertype behaviour. Some insights that are preseted in the heat map are the following: 
 - Suscribers represent have significantly more activity than regular costumers.
 - The busiets days are Thursday and Friday.
 - Customers use the service on weekends more frequently than they do on weekdays.
 
 
-
 ## Recommendations
 
-## Summary
+
