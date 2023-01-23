@@ -1,7 +1,6 @@
 # bikesharing
 ## Project Overview
-
-V. 
+A new venture 
 
 ### Purpose
 
@@ -39,7 +38,24 @@ In the line graph, th number of bikes is plotted against the tripduration in min
 ### Checkout Times by Gender
 
 <img width="969" alt="Screen Shot 2023-01-18 at 22 17 58" src="https://user-images.githubusercontent.com/114015620/213354116-09c7c47f-3f82-4a47-b476-b2d733129931.png">
-In the graph the checkouts are displayed by gender. Here, we have more resolution on data which enables us to drill into the information to find that males use significantly more the bikesharing service than females. Both have their peek tripduration around 5 minutes. The peek of males is around 100k rides. On their side, females peek at 34k, this mean a difference in utilization of 66% more for males. This can also lead to further questions. Is there anything that can be done to even these numbers? Shall the initial campaing give more focus to males since their adoption is higher? Just a few observations that could support customer profiling.
+In the graph the checkouts are displayed by gender. Here, we have more resolution on data which enables us to drill down the information to find that males use significantly more the bikesharing service than females. Both have their peek tripduration around 5 minutes. The peek of males is around 100k rides. On their side, females peek at 34k, this mean a difference in utilization of 66% more for males. This can also lead to further questions. Is there anything that can be done to even these numbers? Shall the initial campaing give more focus to males since their adoption is higher? Just a few observations that could support customer profiling.
+
+### Gender Breakdown
+
+
+<img width="326" alt="Screen Shot 2023-01-23 at 8 51 08" src="https://user-images.githubusercontent.com/114015620/214069926-77caa7f0-9fd3-4cb4-b64e-0224b1124524.png">
+
+In the pie chart the porpotion of males can be observed, there were 1.5 M males, 588k females and 225k unknown. This means:
+- 65% of the costumers are males.
+- 25% are females.
+- 10% unknown.
+
+Now that we know the distribution of customers by gender. Let's explore their behaviour by age.
+
+### User type by gender
+
+<img width="886" alt="Screen Shot 2023-01-23 at 9 00 45" src="https://user-images.githubusercontent.com/114015620/214072378-9eb7569e-532d-444e-ab3f-f14c8785a488.png">
+
 
 
 ###Third
